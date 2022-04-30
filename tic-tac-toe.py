@@ -1,12 +1,29 @@
-# improvement ideas
-# add play again
-# add draw
-# add not being able to play over an already claimed location
+
+#################################################
+# Description: Plays a game of tic tac toe with 
+# 2 players in a 3 x 3 grid with the goal being
+# to have 3 spaces in a row.
+#
+# Created for W02 of CSE 210
+#################################################
+# Author: Alexa Thompson
+# School: Brigham Young University Idaho
+# Semester: Spring Semester
+# Class: CSE 210
+#################################################
+# Brainstorming for updates:
+#      add play again
+#      add draw
+#      add not being able to play over an 
+#           already claimed location
+#################################################
+
+
+
+
 
 # create initial list to form grid
 grid_list = [1,2,3,4,5,6,7,8,9]
-
-
 
 def print_grid():
     """Print grid using values from grid_list
