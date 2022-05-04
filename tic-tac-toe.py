@@ -6,7 +6,7 @@
 #
 # Created for W02 of CSE 210
 #################################################
-# Author: Alexa Thompson
+# Author: AT
 # School: Brigham Young University Idaho
 # Semester: Spring Semester
 # Class: CSE 210
